@@ -1,12 +1,3 @@
 .project
 .classpath
 .settings
-.springBeans
-*.log
-build
-target
-bin
-*.class
-*.jar
-*.war
-.factorypath
